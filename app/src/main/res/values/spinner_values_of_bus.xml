@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bus_values">
+        <item>Bus No. 1</item>
+        <item>Bus No. 2</item>
+        <item>Bus No. 3</item>
+        <item>Bus No. 4</item>
+        <item>Bus No. 5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Track BMS</string>
+    <string name="join">Join Us</string>
+    <string name="feedback">Send Feedback</string>
+    <string name="contact">Contact</string>
+    <string name="check">Check Location</string>
+    <string name="about">About Us</string>
+    <string name="report">Report an Issue</string>
+    <string name="help">Neep Help?</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
